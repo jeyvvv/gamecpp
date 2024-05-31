@@ -6,7 +6,7 @@
 
 ![Изображение проекта](https://github.com/jeyvvv/gamecpp/blob/master/game1.jpg)
 ![Изображение проекта](https://github.com/jeyvvv/gamecpp/blob/master/game2.jpg)
-![Видео демонстрация проекта](https://www.youtube.com/watch?v=yHcEOC4nJ6E)
+![Видео демонстрация проекта](https://github.com/jeyvvv/gamecpp/blob/master/video%20showcase.mp4)
 
 ## Основные моменты
 
